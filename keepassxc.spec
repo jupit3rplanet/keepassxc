@@ -1,7 +1,7 @@
 Summary:	Cross Platform Password Manager
 Name:		keepassxc
 Version:	2.7.12
-Release:	%{?beta:0.%{beta}.}1
+Release:	%{?beta:0.%{beta}.}2
 License:	GPLv2+
 Group:		File tools
 # Forked from dormant http://www.keepassx.org/
