@@ -38,7 +38,7 @@ BuildRequires:		pkgconfig(minizip)
 BuildRequires:		pkgconfig(readline)
 BuildRequires:		pkgconfig(xi)
 BuildRequires:		pkgconfig(xtst)
-BuildRequires:		pkgconfig(zlib-ng)
+BuildRequires:		pkgconfig(zlib)
 Provides:	keepass = %{version}-%{release}
 Provides:	KeePassX = %{version}-%{release}
 Provides:	KeePassXC = %{version}-%{release}
